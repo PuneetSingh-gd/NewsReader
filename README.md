@@ -1,1 +1,2 @@
-# NewsReader
+# NewsReaderApp
+
